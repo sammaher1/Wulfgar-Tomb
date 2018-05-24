@@ -1,0 +1,119 @@
+1
+	Farming. The cornerstone of modern life. It’s a good, simple life, but you’ve always wanted more. That’s why you ran away from home at eighteen to (join the Knights of the flaming rose/enter the mage’s college/join a band of mercenaries). But now you’re on your own, walking through this godforsaken forest, searching for...Meaning? Happiness? Death? Your fatigued brain doesn’t even know anymore.
+	What’s this? You see a figure in the distance. Looks like an old man.  Maybe he’s bait for bandits,  but I’ve never seen them this far north. You ready your weapon nonetheless and approach this hooded figure.
+
+
+Ask him what he’s doing here
+Grab him and question him on his whereabouts
+Stab him
+
+
+If asked him:
+2
+“Hello friend, what are you doing so far north”
+The old man remains silent, and with a smile, snaps his fingers…
+
+
+
+
+
+If grabbed him:
+3
+You place the old, frail-looking man in a headlock and put your knife to his throat.
+“What are you doing here, bandit scum? Where are your friends?”
+The old man remains silent, and snaps his fingers…
+
+	
+If stabbed him:
+4
+You, fearing for your life grab your knife and stab the old man in the stomach. But your blade is stopped. What’s this? He’s not wearing any armor, this a powerful magician.
+“HOW DARE YOU STRIKE ME, “player name”. I WILL RELEASE YOU FROM THE BINDS OF THIS WORLD”. You feel your body slowly heating up, and see your body disintegrating before your very eyes. The last traces of you are heard screaming as you cease to exist, and the forest is quiet again. BAD END
+
+
+
+Land of the Giants
+5
+You enter the world of the Giants. These giants have lived here for a millenia or more,
+and you are but a stranger in their strange halls. Their World is obviously created for them, a huge chamber for these eighty foot tall goliaths. As an ant wishes he isn’t crushed, you can only pray you don’t anger them, and that these gentle giants remain gentle.
+	You turn around and examine yourself in a nearby mirror and find out you still have all of your belongings. “Good.” you say to yourself, but it doesn’t stay good for long because you soon realize you are not alone….
+	“Who’s there?” you ask quietly to avoid awakening any nearby giants. The old man that sent you here steps out from behind a large pillar. He laughs and mutters something intelligible to human ears. As you wander around the great hall of the giants, you realize that the old man is following you. “Hello. My name is +playername+. What is your name old man?” you ask as your patience starts to crumble.
+	“My name? It’s Wulfgar of course. Did you not know that already?”
+	“Of course not!” you exclaim “You teleported me before you answered my questions.”
+As you exclaim that, you realize what you have done. A giant, who had been slumbering until recently, slowly peeks out from behind a pillar and eyes both you with angry eyes.
+
+
+Giant Battle:
+
+6
+	After the giant falls, you notice that there are weapons in the giants back. You walk over to the giant and climb upon his back. As you try to pick a weapon out of its back, Wulfgar comes out from behind a pile of rubble and fires a fireball at you and shouts “You imbecile! You have trespassed upon the sacred land of the giants! You must pay for your crimes!”
+	You quickly dodge the fireball and try to find a way to stop him. As you crawl around you see a crossbow with some rope attached to it. You sneak around him and take careful aim to not hit him.
+	You fire the crossbow and entrap Wulfgar with ropes that is attached to the quarrel. Wulfgar, who realizes his predicament, drunkenly attempts to escape his bonds, but to no avail and falls to the ground.
+	You run over to Wulfgar who looks at you with menacing eyes and growls at you. You grab him by the shoulders and shakes him. 
+“Why would you attack me?” you ask. “You seem like such a nice guy.”
+Wulfgar makes a crooked smile that seemed completely unnatural, and snaps his fingers and disappears with a flash of bright white light.
+“Dang it!!” you yell out in frustration. As you sit fuming about Wulfgar’s betrayal, you come up with two options.
+Do you A: Kill him the next time you seen him or B: Attempt to question him again the next time you meet.
+6
+7
+If A: You decide that killing him is the best option. If you can kill him, he won’t be able to hurt you anymore.
+
+8
+If B: You decide that killing him wouldn’t be the best option as you could get some answers about this weird quest that has been thrust upon you.
+
+
+
+Insert Time Skip Here:
+
+Area by Tomb	
+City of the Undead
+9
+	You awaken to an apocalyptic city that has fallen into ruin. The smell of rust and mold fills the air and burns your nose. A low moan can be heard in the corner and as you look over you see someone who is trapped underneath a large stone. As you head over to him you realize that something is just not right about him and just before you reach out your hand to help him he snaps his mouth at you. You realize that he is a zombie. You quickly pull out your pocket knife and kill him. A (sniper/baton/shotgun) is laying on the ground nearby the stone. You pick it up and realize that the only way to get out is by fighting. You look into the street and see two paths you can take to get to your grandfathers. One is empty with only a few cars that are completely fried. The other way is dark, and you can already see people coming from the ashes, if they are even people. (Go Left/Go Right). If you go left then you go towards the empty road, which is where you will get ambushed by a group of thugs who were waiting behind the cars. If you go right then you will run into a mob of zombies that are blocking the path.
+
+
+If chose kill Wulfgar dies: 
+10
+You find a clump of zombies gnawing on what seems to be the remains of a human being. You clear out the zombies with your weapon and approach the body hoping that he/zhe had a weapon. As you arrive, you notice a wooden staff laying on the ground. A burst of evil laughter echoes in the city. In a heartbeat you realize who's staff it is. You work is done. As you look at the old man’s corpse, you start to realize the error of your ways. You look down towards you trusty knife, and slice your own throat, ending it all. BAD END
+
+
+If chose save: continue
+Find Tomb:
+11
+	After wandering around for hours looking for anything that might look like a tomb, you find a strange building that seems to be letting off a sort of ominous aura. You search the building for any clues that might lead you to Wulfgar. After finding nothing that could lead one to think that the building is special, you start to walk out of the building. You enter it once more and search the one room that you apparently missed the first two times, the basement. Just as you are about to step in, you you see the barely noticable tripwire that spans to doorway at ankle height. You carefully step over it and onto the second step.
+	In the center of the basement, there is an eerie glow from a portal that seems to lead to an dark and gloomy place. Do you A: Go through the portal as it might lead you to the corruptor, or B: Leave because the place gives you the creeps.
+
+
+If Leave:
+12
+	You exit the basement, carefully stepping over the tripwire and make your way to the entrance of the building.
+	Just before you exit, you realize that it has been raining for quite some time. Just as you realize that, a zombie arm breaks through the front door and claws around to make the opening larger.
+	You turn around and rush back to the basement and hastily leap over the tripwire and hope the stairs is merciful. You tumble down the stairs and scramble to your feet the second they hit the ground. Just as everyone gets to their feet, multiple zombies rush into the basement triggering the door trap which springs up and sends bloody limbs and other zombie parts in various directions. Some zombies, who survived the fall, start crawling towards your party with their jaws hanging open as if they can tell that you are a nice meal waiting to be eaten.
+	You scramble through the portal and as you jump through, the portal closes, letting two zombies get through and cutting off the top halves of many others. You quickly take care of the ones that got through. Just as you are about to explore the area, a familiar voice echoes in the graveyard.
+
+
+If Stay
+13
+	You look around the portal for a bit, looking for any more traps like the one at the basement entrance. When you find none, you step through the portal and into a dimly lit graveyard. Just as you are about to explore the area, a familiar voice echoes in the graveyard.
+
+
+Corruptor Battle:
+14
+	“I’ve been waiting” Wulfgar says as he appears from a portal similar to the one that you and the others just came through. “I honestly would take care of you myself, but my master craves blood and wishes to see you die at his hand.”
+	“So you have been ‘taken’ by the corruptor!” you shout.
+	“Taken. I don’t know what you mean.” Wulfgar says, “I am only serving the rightful lord of all.”
+	“Flattery is not necessary, Wulfgar.” The corruptor says as he too comes out of the portal.
+	“Release Wulfgar immediately!”
+	“Blah Blah Blah Blah Blah” the corruptor says sarcastically. “Can’t we just get over with the fight? I want to add you to my collection.”
+	BEGIN BATTLE:
+
+
+Save Wulfgar:
+15
+	“NOOOOOOOOOOOOOOOOOOOOO!!!!” The corruptor shouts, “My collection is not complete!!”
+	“It’s over!” You say as you drive your sword into the corruptors glowing heart.
+	The corruptor gasps for breath and claws at your hands hoping to dislodge the sword from his heart, but only to have it driven in farther by your body weight pushing against him. The corruptor looks up and after a few seconds, explodes into a massive amount of cloth and rotten skin flakes.
+	As the flakes slowly dissolve into the air, Wulfgar looking a bit ill, lays down and places his arms on his chest and sighs. You run over to see if he is all right
+	“Wulfgar. Are you alright?”
+	“My time has come. I hope that you find yourself happy in the future.” Wulfgar says as he closes his eyes, lets out his last breath, and passes away. To any other onlooker, it would seem as if he was only asleep, but you knew what happened.
+	A tear rolls down your cheek as you remember that despite not spending much time with him, he seemed like a great guy and an ideal role model for all aspiring mages.
+	Since it is a graveyard, you use a nearby shovel to dig a grave for Wulfgar. As you lower him in, you remember how you met and how much of an impact it had on your life. After you finish burying him and placing a tombstone on his grave, you feel an invisible force grabbing at you and pulling you away. It eventually overpowers your will to stay and you fly backwards into a portal.
+	You squint as you are pulled into a world of bright light. Where farming is the way of life and where you first met the old man named Wulfgar.
